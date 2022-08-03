@@ -7,7 +7,7 @@ public class MovimentacaoPadrao implements IMovimentacaoStrategy {
 
     @Override
     public void mover() {
-
+        System.out.println("Movendo-se normalmente...");
     }
 
 }

@@ -7,7 +7,7 @@ public class MovimentacaoStrafe implements IMovimentacaoStrategy {
 
     @Override
     public void mover() {
-
+        System.out.println("Movendo-se rapidamente ida e volta...");
     }
 
 }

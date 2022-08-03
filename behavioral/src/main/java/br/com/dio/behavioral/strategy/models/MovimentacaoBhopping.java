@@ -7,7 +7,7 @@ public class MovimentacaoBhopping implements IMovimentacaoStrategy {
 
     @Override
     public void mover() {
-
+        System.out.println("Movendo-se rapidamente com pulos e alternância de direções...");
     }
 
 }
