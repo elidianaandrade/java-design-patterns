@@ -35,9 +35,3 @@ Explorando Padrões de Projetos na Prática com Java como Desafio de Projeto da 
 
 - [Repositório do Instrutor Venilton FalvoJr](https://github.com/digitalinnovationone/lab-padroes-projeto-java)
 - [Digital Innovation One](https://www.dio.me/).
-
-<div align="right">
-  <a href="#top">
-    <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
-  </a>
-</div>
